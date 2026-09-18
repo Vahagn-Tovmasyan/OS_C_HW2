@@ -1,4 +1,3 @@
-````markdown
 # Analysis of Fork and Exec Assignments
 
 ## Assignment 0: Multiple Fork Calls
