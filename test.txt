@@ -1,0 +1,3 @@
+The main function starts the program.
+We are learning.
+The main topic is forks and child proccess and their PIDs.
